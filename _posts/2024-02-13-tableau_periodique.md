@@ -1,6 +1,6 @@
 ---
 title: Un Tableau périodique des éléments expliqué
-date: 2024-02-13 20:10:00 +/-0000
-categories: [Ressources Physique-Chimie, Pédagogie, Histoire des sciences]
-tags: [ressources physique-chimie, ressources lycée, histoire des sciences]     # TAG names should always be lowercase
+date: 2024-02-13 20:10:00 -0001
+categories: [Ressources_Physique-Chimie, Pédagogie, Histoire_des_sciences]
+tags: [ressources_physique-chimie, ressources_lycée, histoire_des_sciences]     # TAG names should always be lowercase
 ---
