@@ -196,3 +196,9 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+- jekyll-language-plugin
+
+language_data: data.lang.fr
+language_includes_dir: _i18n
