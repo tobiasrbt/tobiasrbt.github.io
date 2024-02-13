@@ -200,5 +200,5 @@ jekyll-archives:
 plugins:
 - jekyll-language-plugin
 
-language_data: data.lang.fr
-language_includes_dir: _i18n
+#language_data: data.lang.fr
+#language_includes_dir: _i18n
