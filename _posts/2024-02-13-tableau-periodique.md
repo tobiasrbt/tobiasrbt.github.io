@@ -18,7 +18,7 @@ Contenu et lecture du tableau périodique
 Le tableau périodique que je vous propose est une double page A3 au format *PDF*. Sur la première page, un tableau périodique classique, sans fioritures, où on trouve symboles chimiques, masses atomiques, numéros atomiques, électronégativité, nom de l'élément, état dans les CNTP[^1] et les familles d'éléments.
 
 J'ai divisé la seconde page en 3 sections :
-* **"Un tableau périodique, à quoi ça serrt ?"** : Comment utiliser dans les grandes lignes un tableau périodique des éléments
+* **"Un tableau périodique, à quoi ça sert ?"** : Comment utiliser dans les grandes lignes un tableau périodique des éléments
 * **"La grande histoire des classifications périodiques"** : Un peu d'histoire des sciences de Lavoisier jusqu'à nos jours où comment les découvertes sur l'atome ont permis de les classifier et réciproquement comment la classification des atomes nous permet d'en découvrir toujours plus à leur sujet.
 * **"Quelques éléments autour de nous"** : Je ne parle que du cas du carbone et de l'hydrogène, l'hydée est plus de montrer l'omniprésence des éléments et leur propriété de brique élémentaire de la matière.
 
