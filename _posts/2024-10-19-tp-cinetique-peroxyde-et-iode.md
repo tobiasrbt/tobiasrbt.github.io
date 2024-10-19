@@ -23,7 +23,7 @@ Le TP peut être réalisé en deux heures, avec environ **1h10** sur la réactio
 
 Avertissements de sécurité
 -----------
-Ce TP utilise **des réactifs dangereux si on ne les manipule pas correctement** dont : du peroxyde d'hydrogène, du diiode, de l'iodure et de l'iodate de potassium, de l'acide sulfurique concentré etc. Les précautions nécessaires sont expliquées dans le TP et plusieurs questions portent sur la sécurité, mais je préfère lister ici tous les avertissements de sécurité et les précautions conseillées que l'on rencontre sur els étiquettes des produits utilisés, selon la nomenclature du règlement CLP :
+Ce TP utilise **des réactifs dangereux si on ne les manipule pas correctement** dont : du peroxyde d'hydrogène, du diiode, de l'iodure et de l'iodate de potassium, de l'acide sulfurique concentré etc. Les précautions nécessaires sont expliquées dans le TP et plusieurs questions portent sur la sécurité, mais je préfère lister ici tous les avertissements de sécurité et les précautions conseillées que l'on rencontre sur les étiquettes des produits utilisés, selon la nomenclature du règlement CLP[^1] :
 
 **Mentions de danger** :
 * H272 - Peut aggraver un incendie ; comburant
@@ -54,3 +54,14 @@ Ce TP utilise **des réactifs dangereux si on ne les manipule pas correctement**
 * P314 - Consulter un médecin en cas de malaise
 * P363 - Laver les vêtements contaminés avant réutilisation
 * P501 - Éliminer le contenu/récipient dans un contenant prévu à cet effet
+
+Téléchargement et utilisation du sujet
+-----------
+
+Vous pouvez cliquer [ici](/documents/TP_cinetique_sujet.pdf) pour télécharger le sujet du TP : [Sujet du TP](/documents/TP_cinetique_sujet.pdf).
+Vous pouvez cliquer [ici](/documents/TP_cinetique_correction.pdf) pour télécharger des éléments de correction du TP : [Éléments de correction du TP](/documents/TP_cinetique_correction.pdf).
+
+Je mets ces deux documents à disposition en licence Creative Commons *CC BY 4.0*[^2]. N'hésitez donc pas à le ré-utiliser, modifier, re-partager. Les informations concernant les illustrations utilisées sont présentes systématiquement sous l'illustration. Si vous avez besoin des fichiers LaTeX, n'hésitez pas à me contacter (*logo d'enveloppe mail en bas à gauche du site*).
+
+[^1]: **[Règlementation CLP](https://osha.europa.eu/fr/themes/dangerous-substances/clp-classification-labelling-and-packaging-of-substances-and-mixtures)** : Règlementation sur la classification, l'étiquetage et l'embalage des substances et mélanges. Un mémento de l'[INRS](https://www.inrs.fr/media.html?refINRS=ED%206207) (Institut National de Recherche et de Sécurité) résume la nomenclature et les informations de la règlementation CLP.
+[^2]: **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** : Licence libre de droit, Partage et modification autorisés y compris à des fins commerciales (sous réserve de mentionner les changements effectués), attribution nécessaire.
