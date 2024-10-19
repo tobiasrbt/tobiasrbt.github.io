@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Découvrir la cinétique avec de drôles de réactions chimiques : un TP autour de l'iode et du peroxyde d'hydrogène"
-date: 2024-10-19 11:00:00 +0100
+date: 2024-10-19 10:00:00 +0100
 categories: [Ressources_Physique-Chimie, Travaux_Pratiques]
 tags: [ressources_physique-chimie, ressources_lycée, travaux_pratiques, lycée, cinétique_chimique]     # TAG names should always be lowercase
 author: <tobias>
