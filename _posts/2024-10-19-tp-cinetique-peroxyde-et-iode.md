@@ -23,7 +23,7 @@ Le TP peut être réalisé en deux heures, avec environ **1h10** sur la réactio
 
 Avertissements de sécurité
 -----------
-Ce TP utilise **des réactifs dangereux si on ne les manipule pas correctement** dont : du peroxyde d'hydrogène, du diiode, de l'iodure et de l'iodate de potassium, de l'acide sulfurique concentré etc. Les précautions nécessaires sont expliquées dans le TP et plusieurs questions portent sur la sécurité, mais je préfère lister ici tous les avertissements de sécurité et les précautions conseillées, selon la nomenclature du règlement CLP :
+Ce TP utilise **des réactifs dangereux si on ne les manipule pas correctement** dont : du peroxyde d'hydrogène, du diiode, de l'iodure et de l'iodate de potassium, de l'acide sulfurique concentré etc. Les précautions nécessaires sont expliquées dans le TP et plusieurs questions portent sur la sécurité, mais je préfère lister ici tous les avertissements de sécurité et les précautions conseillées que l'on rencontre sur els étiquettes des produits utilisés, selon la nomenclature du règlement CLP :
 
 **Mentions de danger** :
 * H272 - Peut aggraver un incendie ; comburant
@@ -37,3 +37,20 @@ Ce TP utilise **des réactifs dangereux si on ne les manipule pas correctement**
 * H332 - Nocif par inhalation
 * H335 - Peut irriter les voies respiratoires
 * H400 - Très toxique pour les organismes aquatiques
+
+**Conseils de prudence**
+* P210 - Tenir à l’écart de la chaleur, des surfaces chaudes, des étincelles, des flammes nues et de toute autre source d’inflammation. Ne pas fumer.
+* P220 - Tenir à l’écart des vêtements et d’autres matières combustibles
+* P234 - Conserver uniquement dans l’emballage d’origine
+* P264 - Se laver. . . soigneusement après manipulation
+* P273 - Eviter le rejet dans l’environnement
+* P280 - Porter des gants de protection/des vêtements de protection/un équipement de protection des yeux/du visage/une protection auditive/. . .
+* P301 + P312 - EN CAS D’INGESTION : appeler un CENTRE ANTIPOISON / un médecin . . ./en cas de malaise
+* P302 + P352 - EN CAS DE CONTACT AVEC LA PEAU : laver abondamment à l’eau / . . .
+* P303 + P362 + P353 - EN CAS DE CONTACT AVEC LA PEAU (ou les cheveux) : enlever immédiatement tous les vêtements contaminés. Rincer la peau à l’eau [ou se doucher]
+* P304 + P340 - EN CAS D’INHALATION : transporter la personne à l’extérieur et la maintenir dans une position où elle peut confortablement respirer
+* P305 + P351 + P338 - EN CAS DE CONTACT AVEC LES YEUX : rincer avec précaution à l’eau pendant
+* plusieurs minutes. Enlever les lentilles de contact si la victime en porte et si elles peuvent être facilement enlevées. Continuer à rincer
+* P314 - Consulter un médecin en cas de malaise
+* P363 - Laver les vêtements contaminés avant réutilisation
+* P501 - Éliminer le contenu/récipient dans un contenant prévu à cet effet
