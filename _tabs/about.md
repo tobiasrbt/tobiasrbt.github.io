@@ -9,7 +9,7 @@ Qui suis-je ?
 
 <p>
   <img width="1400" height="350" src="/medias/Volcans.jpg" alt="Les volcans d'Auvergne"><br><br>
-  Je m'appelle Tobias, j'ai 18 ans et je bouge sans-cesse entre Limoges où je fais mes études et Clermont-Ferrand d'où je viens. Je suis en première année de classe prépa, dans une filière intitulée "Physique, Chimie, Sciences Industrielles" et j'ai pour l'objectif de devenir professeur de physique-chimie. J'aime tout particulièrement expérimenter, que ce soit en physique ou en chimie, mais aussi chez moi...
+  Je m'appelle Tobias, j'ai 18 ans et je suis étudiant en deuxième année de licence Physique-Chimie à l'Université Clermont Auvergne. Je souhaite devenir professeur de physique-chimie. J'aime tout particulièrement expérimenter, que ce soit en physique ou en chimie, mais aussi chez moi...
 </p>
 
 > L’expérience scientifique est une raison confirmée. *Gaston Bachelard*
